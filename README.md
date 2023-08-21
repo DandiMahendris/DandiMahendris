@@ -11,7 +11,7 @@ I'm Dandi Mahendris, a passionate Data Analyst at [**Across Asia Assist**](https
 
 ### 🧪 Projects
 * [**Auto Fraud Insurance Detection**](https://github.com/DandiMahendris/Auto-Insurance-Fraud-Detection) - This research goal is to build binary classifier model which are able to separate fraud and non-fraud transactions.
-* [**Gaussian Mixture From Scratch**](https://github.com/DandiMahendris/Gaussian-mixture-from-scratch) - How the algorithm of Expectation-Maximization in Gaussian Mixture works for clustering.
+* [**Gaussian Mixture Clustering from Scratch**](https://github.com/DandiMahendris/Gaussian-mixture-from-scratch) - How the algorithm of Expectation-Maximization in Gaussian Mixture works for clustering.
 * [**Customer Acquisition Cost Regression model**](https://github.com/DandiMahendris/regression-model-cac) - Regression models for predicting customer acquisition costs (CAC) and the effectiveness of univariate analysis and lasso feature selection techniques in improving the accuracy.
 * [**RFM Segmentation and LTV Modelling**](https://github.com/DandiMahendris/RFM-Segmentation-and-LTV-Modelling) - Perform
 RFM Segmentation and Forecast customer purchases, Customer Churn Rate, future sales and Customer Lifetime Value using *Beta-Geofitter/Negative Binomial Distribution (BG/NBD)* Model
