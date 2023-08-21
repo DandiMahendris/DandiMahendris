@@ -80,5 +80,39 @@ RFM Segmentation and Forecast customer purchases, Customer Churn Rate, future sa
     </div>
 </div>
 
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <h3>Data Tools</h3>
+      <p>
+        <a href="https://www.python.org" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+        <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/70002987/122630299-38ae2a80-d088-11eb-83a1-e3b323a68941.png" alt="NumPy" width="40" height="40"/> </a>
+        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+        <a href="https://www.scipy.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/scipy-logo-7D9F267684-seeklogo.com.png" alt="SciPy" width="40" height="40"/> </a>
+        <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+        <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://yt3.ggpht.com/--wrzWlUr7oY/AAAAAAAAAAI/AAAAAAAAAAA/laVCgsWCIIQ/s900-c-k-no/photo.jpg" alt="Plotly" width="35" height="35"/> </a>
+      </p>
+    </td>
+    <td style="text-align: center;">
+      <h3>Visualization Tools</h3>
+      <p>
+        <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://ctsi.wakehealth.edu/-/media/WakeForest/CTSI/Images/Page-Photos/Announcements/tableau-logo.png?h=108&w=200&la=en" alt="Tableau" width="60" height="40"/> </a>
+        <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.3a646f7af36c19f92453a872e1a6a329?rik=NGLnMz%2bk6faQkw&riu=http%3a%2f%2fit.miami.edu%2f_assets%2fimages%2fO365_Power_BI.png&ehk=HBpjA2cY61UDu8947P%2f2Gm%2fB0yMsGkb7ZeS3AFO5hBs%3d&risl=&pid=ImgRaw&r=0" alt="Power BI" width="40" height="40"/> </a>
+        </a>
+      </p>
+    </td>
+    <td style="text-align: center;">
+      <h3>Machine Learning Tools</h3>
+      <p>
+        <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="50" height="50"/> </a>
+        <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+        <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dandimahendris&show_icons=true&locale=en&layout=compact" alt="dandimahendris" /></p>
 
