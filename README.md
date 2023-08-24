@@ -19,8 +19,6 @@ RFM Segmentation and Forecast customer purchases, Customer Churn Rate, future sa
 
 ### 👨‍💻 Data Visualization
 * [**E-Commerce Website Performance**](https://public.tableau.com/app/profile/dandi.mahendris/viz/E-CommerceWebsitePerformance/Dashboard1)
-* [**Awareness and Consideration Funnel Add Result**](https://public.tableau.com/app/profile/dandi.mahendris/viz/AwarenessandConsiderationFunnelAdd/Dashboard3)
-* [**Cohort Analytics on Retention Rate**](https://public.tableau.com/app/profile/dandi.mahendris/viz/BAVI-SaasBusinessAnalytics/Dashboard1)
 
 <table>
   <tr>
