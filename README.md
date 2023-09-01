@@ -10,15 +10,18 @@ I'm Dandi Mahendris, a passionate Data Analyst at [**Across Asia Assist**](https
 - 📞 How to contact me **+6285229330580**
 
 ### 🧪 Projects
+* [**RFM Segmentation and LTV Modelling**](https://github.com/DandiMahendris/RFM-Segmentation-and-LTV-Modelling) - Perform
+RFM Segmentation and Forecast Customer Lifetime Value, Customer Churn Rate, Customer number Purchase, and Future Sales using *Beta-Geofitter/Negative Binomial Distribution (BG/NBD)* Model
 * [**Auto Fraud Insurance Detection**](https://github.com/DandiMahendris/Auto-Insurance-Fraud-Detection) - This research goal is to build binary classifier model which are able to separate fraud and non-fraud transactions.
 * [**Gaussian Mixture Clustering from Scratch**](https://github.com/DandiMahendris/Gaussian-mixture-from-scratch) - How the algorithm of Expectation-Maximization in Gaussian Mixture works for clustering.
-* [**Customer Acquisition Cost Regression model**](https://github.com/DandiMahendris/regression-model-cac) - Regression models for predicting customer acquisition costs (CAC) and the effectiveness of univariate analysis and lasso feature selection techniques in improving the accuracy.
-* [**RFM Segmentation and LTV Modelling**](https://github.com/DandiMahendris/RFM-Segmentation-and-LTV-Modelling) - Perform
-RFM Segmentation and Forecast customer purchases, Customer Churn Rate, future sales and Customer Lifetime Value using *Beta-Geofitter/Negative Binomial Distribution (BG/NBD)* Model
+* [**Customer Acquisition Cost Regression model**](https://github.com/DandiMahendris/regression-model-cac) - Regression models for predicting acquisition costs per customer(CAC) using the effectiveness of multivariate analysis and lasso feature selection techniques in improving the MSE Loss.
 * [**Statistical Analysis – Deductible Amount Consideration Towards Several Health Conditions**](https://drive.google.com/file/d/1TsWYM_lgo2fkWptLBiMr3LxhgTx2xA6B/view) - Statistical Analysis on OLS and Relationship between Deductible Amount toward Health Conditions
 
 ### 👨‍💻 Data Visualization
 * [**E-Commerce Website Performance**](https://public.tableau.com/app/profile/dandi.mahendris/viz/E-CommerceWebsitePerformance/Dashboard1)
+* [**Marketing Awareness and Consideration Funnel**](https://public.tableau.com/views/AwarenessandConsiderationFunnelAdd/Dashboard3?:language=en-GB&:display_count=n&:origin=viz_share_link)
+* [**SaaS Business Analytics**]([https://public.tableau.com/app/profile/dandi.mahendris/viz/BAVI-SaasBusinessAnalytics/Dashboard1](https://public.tableau.com/views/BAVI-SaasBusinessAnalytics/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+* [**Hollywood Movie Gross**](https://public.tableau.com/views/HighestHolywoodGrossMovie/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 <table>
   <tr>
