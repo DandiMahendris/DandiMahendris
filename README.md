@@ -10,7 +10,7 @@ I'm Dandi Mahendris, a passionate Data Analyst at [**Across Asia Assist**](https
 - 📞 How to contact me **+6285229330580**
 
 ### 🧪 Projects
-* [**Steam's Game Recommendation System using Content-Based and Context-Aware Factorization Machines**](https://github.com/DandiMahendris/Context-Aware-Factorization-Machine-Recommendation-System) - Recommendation system for Steam's games recommendation based on user's preference using Context-Aware Factorization Machine with Monte Carlo Markov Chain (MCMC) optimization and Content Based Recommendation system with Novelty and Serendipity contextual for enhanching recommendation. Utilized Alternating Least Square also for implicit data feedback.
+* [**Steam Recommendation System using Content-Based and Context-Aware Factorization Machines**](https://github.com/DandiMahendris/Context-Aware-Factorization-Machine-Recommendation-System) - Recommendation system for Steam's games recommendation based on user's preference using Context-Aware Factorization Machine with Monte Carlo Markov Chain (MCMC) optimization and Content Based Recommendation system with Novelty and Serendipity contextual for enhanching recommendation. Utilized Alternating Least Square also for implicit data feedback.
 * [**RFM Segmentation and LTV Modelling**](https://github.com/DandiMahendris/RFM-Segmentation-and-LTV-Modelling) - Perform
 RFM Segmentation and Forecast Customer Lifetime Value, Customer Churn Rate, Customer number Purchase, and Future Sales using *Beta-Geofitter/Negative Binomial Distribution (BG/NBD)* Model
 * [**Auto Fraud Insurance Detection**](https://github.com/DandiMahendris/Auto-Insurance-Fraud-Detection) - This research goal is to build binary classifier model which are able to separate fraud and non-fraud transactions.
