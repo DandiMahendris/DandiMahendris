@@ -19,8 +19,6 @@ I'm Dandi Mahendris, a passionate Data Analyst at [**Across Asia Assist**](https
 
 ### 👨‍💻 Data Visualization
 * [**E-Commerce Website Performance**](https://public.tableau.com/app/profile/dandi.mahendris/viz/E-CommerceWebsitePerformance/Dashboard1)
-* [**Marketing Awareness and Consideration Funnel**](https://public.tableau.com/views/AwarenessandConsiderationFunnelAdd/Dashboard3?:language=en-GB&:display_count=n&:origin=viz_share_link)
-* [**SaaS Business Analytics**](https://public.tableau.com/views/BAVI-SaasBusinessAnalytics/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 * [**Hollywood Movie Gross**](https://public.tableau.com/views/HighestHolywoodGrossMovie/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 <table>
