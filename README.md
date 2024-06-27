@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm Dandi Mahendris, a passionate Data Analyst at [**Across Asia Assist**](https://www.international-assistance-group.com/), one of the biggest International Assistant Group focusing on Insurance company in Indonesia. I thrive in Data Environment encompassing Statistical Analysis, Machine Learning, Data Visualization, Quantitative and Business Modelling. Currently working to enchance my journey in Data Science and Machine Learning implementation on several projects.
-
 <p align="left"> <a href="https://www.linkedin.com/in/dandi-mahendris-a7124516b/" target="blank"><img src="https://img.shields.io/twitter/follow/dandimahendris?logo=linkedin&style=for-the-badge" alt="dandimh44" /></a> 
 <a href="https://twitter.com/dandimh44" target="blank"><img src="https://img.shields.io/twitter/follow/dandimh44?logo=twitter&style=for-the-badge" alt="dandimh44" /></a> </p>
 
