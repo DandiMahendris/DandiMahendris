@@ -58,9 +58,8 @@
       <h3>SQL Database Tools</h3>
       <p>
         <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/> </a> 
-        <a href="https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services" target="_blank" rel="noreferrer"> <img src="https://i2.wp.com/simplebiinsights.com/wp-content/uploads/2019/01/ssis_transparent.png?fit=383%2C200&ssl=1" alt="SSIS" width="85" height="50"/> </a>
-        <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"> <imh src="https://th.bing.com/th/id/OIP.XxgNTaokftz175erzMitNgAAAA?rs=1&pid=ImgDetMain" alt="BigQuery" width="50" height="50"/></a>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
+        <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"> <imh src="https://th.bing.com/th/id/OIP.XxgNTaokftz175erzMitNgAAAA?rs=1&pid=ImgDetMain" alt="BigQuery" width="80" height="50"/> </a>
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a> 
       </p>
     </td>
     <td style="text-align: center;">
