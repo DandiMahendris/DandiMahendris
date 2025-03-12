@@ -3,7 +3,7 @@
 <p align="left"> <a href="https://www.linkedin.com/in/dandi-mahendris-a7124516b/" target="blank"><img src="https://img.shields.io/twitter/follow/dandimahendris?logo=linkedin&style=for-the-badge" alt="dandimh44" /></a> 
 <a href="https://twitter.com/dandimh44" target="blank"><img src="https://img.shields.io/twitter/follow/dandimh44?logo=twitter&style=for-the-badge" alt="dandimh44" /></a> </p>
 
-- 🔭 I’m currently working as **Data Analyst**
+- 🔭 I’m currently working as **Data Scientist**
 - 📫 How to reach me **dandi.mahendris@gmail.com**
 - 📞 How to contact me **+6285229330580**
 
@@ -28,7 +28,6 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
         <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/70002987/122630299-38ae2a80-d088-11eb-83a1-e3b323a68941.png" alt="NumPy" width="40" height="40"/> </a>
         <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-        <a href="https://www.scipy.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/S/scipy-logo-7D9F267684-seeklogo.com.png" alt="SciPy" width="40" height="40"/> </a>
         <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
         <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://yt3.ggpht.com/--wrzWlUr7oY/AAAAAAAAAAI/AAAAAAAAAAA/laVCgsWCIIQ/s900-c-k-no/photo.jpg" alt="Plotly" width="35" height="35"/> </a>
       </p>
@@ -60,7 +59,7 @@
       <p>
         <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/> </a> 
         <a href="https://docs.microsoft.com/en-us/sql/integration-services/sql-server-integration-services" target="_blank" rel="noreferrer"> <img src="https://i2.wp.com/simplebiinsights.com/wp-content/uploads/2019/01/ssis_transparent.png?fit=383%2C200&ssl=1" alt="SSIS" width="85" height="50"/> </a>
-        <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.myintervals.com/blog/wp-content/uploads/2011/12/postgresql-logo1.png" alt="PostgreSQL" width="50" height="50"/> </a>
+        <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer"> <imh src="https://th.bing.com/th/id/OIP.XxgNTaokftz175erzMitNgAAAA?rs=1&pid=ImgDetMain" alt="BigQuery" width="50" height="50"/></a>
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
       </p>
     </td>
